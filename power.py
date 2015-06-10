@@ -14,5 +14,5 @@ def square_root(x):
 square=power(f)
 root=square_root(f)
 
-print "square result=",square, "root result=",root
+print "square result=",square, "root result =",root
 
