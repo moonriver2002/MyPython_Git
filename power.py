@@ -16,3 +16,6 @@ root=square_root(f)
 
 print "square result=",square, "root result =",root
 
+for num range(20):
+    print "number is ",num
+
