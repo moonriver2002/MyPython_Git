@@ -1,6 +1,6 @@
 import os
-import numpy as np
 import sys
+import numpy as np
 
 
 f=float(sys.argv[1])
@@ -16,6 +16,5 @@ root=square_root(f)
 
 print "square result=",square, "root result =",root
 
-for num range(20):
-    print "number is ",num
-
+for num in range(201):
+    print "The top ",num+1 , "is :",num
